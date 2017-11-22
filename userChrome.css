@@ -1,5 +1,12 @@
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
+/* 
+Firefox Customizations
+
+    Windows 10: C:\Users\[username]\AppData\Roaming\Mozilla\Firefox\Profiles\[profile]\chrome\userChrome.css
+    Linux/Unix: ~/.mozilla/firefox.profiles/[profile]/chrome/userChrome.css
+ */
+
 /* hide native tabs */
 #tabbrowser-tabs {
     visibility: collapse !important;
