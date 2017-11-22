@@ -17,7 +17,7 @@ Firefox Customizations
     visibility: collapse;
 }
 
-/* show window buttons [min, retore, max] */
+/* show window buttons [min, restore, max] */
 #titlebar-buttonbox {
     height: 32px !important;
 }
